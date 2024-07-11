@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,9 +14,12 @@
             </h2>
         </x-slot>
 
-        
+
     </x-app-layout>
 
 <h1>admin</h1>
 </body>
-</html>
+</html> --}}
+
+@extends('layouts.admin-dashboard')
+
